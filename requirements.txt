@@ -3,5 +3,4 @@ geemap
 folium
 geopandas
 geojson
-json
 streamlit_ext
